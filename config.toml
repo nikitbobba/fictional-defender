@@ -1,13 +1,13 @@
 ## Basic Configuration
 
-baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+baseurl = "/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
 
 contentdir = "content"
 layoutdir = "layouts"
-publishdir = "docs"
+PublishDir = "docs"
 
 author = "Nikit Bobba"
 title = "Nikit Bobba"
