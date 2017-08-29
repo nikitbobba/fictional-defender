@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "/" 
+baseurl = "https://nikitbobba.github.io/fictional-defender/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
