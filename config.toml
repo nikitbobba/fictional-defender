@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Nikit Bobba"
-intro = "Computer Science and CogSci Student @ Northwestern University"
+intro = "Computer Science and Cognitive Science Student @ Northwestern University"
 description = "can you see this nisha?"
 authorimage = "image.gif"
 dateformat = "Jan 2, 2006"
