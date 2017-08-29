@@ -22,14 +22,14 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Nikit Bobba"
-intro = "CS and CogSci Student @ Northwestern University"
+intro = "Computer Science and CogSci Student @ Northwestern University"
 description = "can you see this nisha?"
 authorimage = "image.gif"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
+description = "Nikit Bobba - CS and CogSci Student"
 keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
