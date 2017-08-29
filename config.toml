@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Nikit Bobba"
 intro = "Computer Science and Cognitive Science Student @ Northwestern University"
-description = "can you see this nisha?"
+description = "I feel like I should put a description here"
 authorimage = "image.gif"
 dateformat = "Jan 2, 2006"
 
