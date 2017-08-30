@@ -30,7 +30,7 @@ dateformat = "Jan 2, 2006"
 ## Site Meta Settings
 [params.meta]
 description = "Nikit Bobba - CS and CogSci Student"
-keywords = "minimalist,blog,goa,hugo,developer"
+keywords = "minimalist,blog,developer"
 
 ## Social Accounts
 [params.social]
@@ -38,7 +38,7 @@ github = "nikitbobba"
 #instagram = "<username>"
 linkedin = "nikitbobba"
 twitter = "nikitbobba"
-facebook = "<username>"
+#facebook = "<username>"
 #google = "<username>"
 #stackoverflow = "<username>"
 email = "nikitsbobba@gmail.com"
