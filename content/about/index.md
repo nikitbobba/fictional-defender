@@ -14,3 +14,5 @@ showpagemeta = false
 
 I am a rising junior at Northwestern University studying Computer Science and Cognitive Science. I am an aspiring software developer with a passion for artificial intelligence and game design. I am interested in learning more about logical reasoning, perception, and Game AI to expand the possibilities of creative storytelling through gaming.
 
+You can see the relevant courses I have taken <b>[here.](/courses)</b>
+
